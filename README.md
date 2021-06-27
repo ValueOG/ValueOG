@@ -1,7 +1,9 @@
-### Hi there 👋
-
+- 🌱 Maximilian, 19 Years, Java Developer.
+- 🔭 I’m currently working on PixelRaid and Evoriya.
+- ⚡ Fun fact: @ScaredDEV smells like shit.
 <!--
 **ValueOG/ValueOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
