@@ -1,6 +1,6 @@
 - 🌱 Maximilian, 19 Years, Java Developer.
-- 🔭 I’m currently working on Evoriya.
-- ⚡ Fun fact: @ScaredDEV smells like shit.
+- 🔭 I’m currently working on Nothing :(
+- 📫 How to reach me: Discord @ Maximilian#7777
 <!--
 **ValueOG/ValueOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
