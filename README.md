@@ -1,4 +1,4 @@
-- 🌱 Maximilian, 19 Years, Java Developer.
+- 🌱 Maximilian, 21
 - 🔭 I’m currently working on Nothing :(
 - 📫 How to reach me: Discord @ Maximilian#7777
 <!--
